@@ -18,7 +18,7 @@
 4 - Printa na tela  
 5 - E passa o auxiliar = auxiliar->next (indo para o proximo continuando o while)  
   
-## Na função de pesquisar utilizamos o seguine passo à passo:  
+## Na função de pesquisar utilizamos o seguinte passo à passo:  
   
 1 - Verifica se à dados visíveis para serem procurados  
 2 - Scanf pegando o codigo pesquisado  
